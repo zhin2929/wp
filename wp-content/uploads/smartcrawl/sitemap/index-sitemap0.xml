@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xml' href='https://wppj.vip/wp-content/plugins/wp-smartCrawl mu-dev-seo/includes/admin/templates/xsl/xml-sitemap-index.xsl'?><sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
+              xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+			<sitemap><loc>https://wppj.vip/post-sitemap1.xml</loc><lastmod>2021-12-02T18:22:12+00:00</lastmod></sitemap>			<sitemap><loc>https://wppj.vip/page-sitemap1.xml</loc><lastmod>2021-12-02T18:55:24+00:00</lastmod></sitemap>			<sitemap><loc>https://wppj.vip/category-sitemap1.xml</loc><lastmod>2021-12-02T18:22:12+00:00</lastmod></sitemap>	</sitemapindex>
