@@ -5,7 +5,7 @@ Tags: perfmatters
 Requires at least: 4.7
 Requires PHP: 7.0
 Tested up to: 5.8.1
-Stable tag: 1.8.0
+Stable tag: 1.8.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,11 @@ Perfmatters is a lightweight performance plugin developed to speed up your WordP
 Check out our [documentation](https://perfmatters.io/docs/) for more information on how to use Perfmatters.
 
 == Changelog ==
+
+= 1.8.1 - 10.26.2021 =
+* Updated Local Google Font function to more effectively remove existing font preconnect and prefetch tags.
+* Updated Local Google Font function for better compatibility with sites that still have remnants from a previous http to https migration.
+* Fixed an issue in the Script Manager where the home page was being treated as a post if set to display the blog feed.
 
 = 1.8.0 - 10.22.2021 =
 * Fixed an issue with Delay All JS that was preventing certain async scripts from fully loading.
