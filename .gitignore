@@ -3,7 +3,6 @@
 *.xml
 *.ini
 *.conf
-*.htaccess
 wp-content/cache/
 wp-content/upgrade/
 wp-content/ai1wm-backups
